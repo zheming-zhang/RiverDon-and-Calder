@@ -18,3 +18,9 @@ From the ```/code``` dir, run:
 8 figures are produced:
 
 ![Figures](https://github.com/zheming-zhang/RiverDon-and-Calder/blob/main/Figures/hadfields%202007.png)
+
+![Figures](https://github.com/zheming-zhang/RiverDon-and-Calder/blob/main/Figures/hadfields%202019.png)
+
+![Figures](https://github.com/zheming-zhang/RiverDon-and-Calder/blob/main/Figures/tesco%202007.png)
+
+![Figures](https://github.com/zheming-zhang/RiverDon-and-Calder/blob/main/Figures/tesco%202019%20.png)
