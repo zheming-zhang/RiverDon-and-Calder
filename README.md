@@ -31,12 +31,11 @@ From the ```/code``` dir, run:
 
 ![Figures](https://github.com/zheming-zhang/RiverDon-and-Calder/blob/main/Figures/2007%20scheme.png)
 
-
-# River Calder 
-
 ![Figures](https://github.com/zheming-zhang/RiverDon-and-Calder/blob/main/Figures/2019%20shceme.png)
 
 ![Figures](https://github.com/zheming-zhang/RiverDon-and-Calder/blob/main/Figures/sheffield%20schemes.png)
 
 *Caption: Figure 1 and 2 are hypothetical schemes for Rotherham in both 2007 and 2019 River Don flood events, Figure 3 reveals the flood mitigation schemes provided by Sheffield City Council; all of these three schemes could alleviate 100% of flood water.*
 
+
+# River Calder
