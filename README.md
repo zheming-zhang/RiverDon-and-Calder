@@ -16,3 +16,5 @@ From the ```/code``` dir, run:
 * ```Integratedcode```
 
 8 figures are produced:
+
+![Figures](https://github.com/zheming-zhang/RiverDon-and-Calder/blob/main/Figures/hadfields%202007.png)
