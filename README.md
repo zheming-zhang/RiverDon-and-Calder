@@ -29,4 +29,9 @@ From the ```/code``` dir, run:
 
 #### Cost-effectiveness analysis
 
+![Figures](https://github.com/zheming-zhang/RiverDon-and-Calder/blob/main/Figures/2007%20scheme.png)
+
+![Figures](https://github.com/zheming-zhang/RiverDon-and-Calder/blob/main/Figures/2019%20shceme.png)
+
+![Figures](https://github.com/zheming-zhang/RiverDon-and-Calder/blob/main/Figures/sheffield%20schemes.png)
 
