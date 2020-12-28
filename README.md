@@ -59,20 +59,20 @@ With the earliest record dating back to 1615, Calderdale has a long history of f
 
 ### Graphical output
 
-（图1）
+![Figures](https://github.com/zheming-zhang/RiverDon-and-Calder/blob/main/Figures/WechatIMG82.jpeg)
 
 *Caption: Figure 8: Hydrograph of River Calder at Mytholmroyd station in December 2015 with the error rate 0.14. The error rate is supposed by author which can be replaced by other rates. The lower bound and the upper bound are related to the choice of error rate.*
 
-（图二）
+![Figures](
 
 *Caption: Figure 9: Hydrograph of River Calder at Mytholmroyd station in December 2020 with the same error rate 0.14. The error rate is supposed by author which can be replaced by other rates. The lower bound and the upper bound are related to the choice of error rate.*
 
 #### Cost-effectiveness analysis
 
-（图三）
+![Figures](
 
 *Caption: Figure 10: Scenario 1, including GRR and flood walls, reservoirs, planting trees, leaky woody dams, and attenuation ponds. This figure is plotted manually with Excel after calculating the area of FEV that each measure can reduce.*
 
-（图四）
+![Figures](
 
 *Caption: Figure 11: Scenario 2, including reservoirs, planting trees, and attenuation ponds. This figure is plotted manually with Excel after calculating the area of FEV that each measure can reduce.*
