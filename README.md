@@ -51,3 +51,28 @@ dataset: from the ```/data```dir, run:
 
 
 # River Calder
+Contributor：Yiting Zhu
+
+## Data selection
+
+With the earliest record dating back to 1615, Calderdale has a long history of flooding. It has suffered from floods for many reasons like sedimentation of drainage assets, surface water flooding, and severe inundation in rainy seasons as many canals and rivers are closely linked in these areas. What is worse, due to global warming, extreme events may happen more often under unstable climates. Out of interest and concern about this area, the author chooses River Calder and Hebden Water as subjects, selecting two flooding events in 2015 and 2020 at three monitoring stations to analyse the flooding and make mitigation plans.
+
+### Graphical output
+
+（图1）
+
+*Caption: Figure 8: Hydrograph of River Calder at Mytholmroyd station in December 2015 with the error rate 0.14. The error rate is supposed by author which can be replaced by other rates. The lower bound and the upper bound are related to the choice of error rate.*
+
+（图二）
+
+*Caption: Figure 9: Hydrograph of River Calder at Mytholmroyd station in December 2020 with the same error rate 0.14. The error rate is supposed by author which can be replaced by other rates. The lower bound and the upper bound are related to the choice of error rate.*
+
+#### Cost-effectiveness analysis
+
+（图三）
+
+*Caption: Figure 10: Scenario 1, including GRR and flood walls, reservoirs, planting trees, leaky woody dams, and attenuation ponds. This figure is plotted manually with Excel after calculating the area of FEV that each measure can reduce.*
+
+（图四）
+
+*Caption: Figure 11: Scenario 2, including reservoirs, planting trees, and attenuation ponds. This figure is plotted manually with Excel after calculating the area of FEV that each measure can reduce.*
