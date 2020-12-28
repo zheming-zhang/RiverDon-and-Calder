@@ -69,7 +69,7 @@ With the earliest record dating back to 1615, Calderdale has a long history of f
 
 #### Cost-effectiveness analysis
 
-![Figures](
+![Figures](https://github.com/zheming-zhang/RiverDon-and-Calder/blob/main/Figures/WechatIMG84.jpeg)
 
 *Caption: Figure 10: Scenario 1, including GRR and flood walls, reservoirs, planting trees, leaky woody dams, and attenuation ponds. This figure is plotted manually with Excel after calculating the area of FEV that each measure can reduce.*
 
