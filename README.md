@@ -47,7 +47,7 @@ dataset: from the ```/data```dir, run:
 
 ![Figures](https://github.com/zheming-zhang/RiverDon-and-Calder/blob/main/Figures/sheffield%20schemes.png)
 
-*Caption: Figure 1 and 2 are hypothetical schemes for Rotherham in both 2007 and 2019 River Don flood events, Figure 3 reveals the flood mitigation schemes provided by Sheffield City Council; all of these three schemes could alleviate 100% of flood water.*
+*Caption: Figure 5 and 6 are hypothetical schemes for Rotherham in both 2007 and 2019 River Don flood events, Figure 7 reveals the flood mitigation schemes provided by Sheffield City Council; all of these three schemes could alleviate 100% of flood water.*
 
 
 # River Calder
@@ -73,6 +73,6 @@ With the earliest record dating back to 1615, Calderdale has a long history of f
 
 *Caption: Figure 10: Scenario 1, including GRR and flood walls, reservoirs, planting trees, leaky woody dams, and attenuation ponds. This figure is plotted manually with Excel after calculating the area of FEV that each measure can reduce.*
 
-![Figures](
+![Figures](https://github.com/zheming-zhang/RiverDon-and-Calder/blob/main/Figures/WechatIMG84.jpeg)
 
 *Caption: Figure 11: Scenario 2, including reservoirs, planting trees, and attenuation ponds. This figure is plotted manually with Excel after calculating the area of FEV that each measure can reduce.*
