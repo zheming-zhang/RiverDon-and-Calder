@@ -61,9 +61,15 @@ With the earliest record dating back to 1615, Calderdale has a long history of f
 
 ![Figures](https://github.com/zheming-zhang/RiverDon-and-Calder/blob/main/Figures/WechatIMG82.jpeg)
 
+dataset: from the ```/data```dir, run:
+*```Mytholmroyd 2015.csv```
+
 *Caption: Figure 8: Hydrograph of River Calder at Mytholmroyd station in December 2015 with the error rate 0.14. The error rate is supposed by author which can be replaced by other rates. The lower bound and the upper bound are related to the choice of error rate.*
 
 ![Figures](https://github.com/zheming-zhang/RiverDon-and-Calder/blob/main/Figures/WechatIMG83.jpeg)
+
+dataset: from the ```/data```dir, run:
+*```MytholmroydTemp 2020.csv```
 
 *Caption: Figure 9: Hydrograph of River Calder at Mytholmroyd station in December 2020 with the same error rate 0.14. The error rate is supposed by author which can be replaced by other rates. The lower bound and the upper bound are related to the choice of error rate.*
 
